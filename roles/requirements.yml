@@ -1,0 +1,3 @@
+---
+
+- include: ansible-role-mongodb-install.yml
